@@ -101,6 +101,9 @@
   position: relative;
   top: -80px;
   }
+  .content-three .row p{
+   font-size:.6rem;
+  }
   .content-three .row a i img{
     height: 30px;
     width: 23px;
