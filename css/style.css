@@ -14,7 +14,7 @@ h1, h2, h3,h4, h5, h6,p{
 	overflow: hidden;
 }
 section.banner{
-	height: 100vh;
+	height: 80vh;
 	width: 100%;
 	background-image:url("../image/tech-boy.png"), url("../image/backgound-img.png"),  linear-gradient(rgba(5, 18, 70, .7), rgba(5, 18, 70, .8)), url("../image/background-img2.png");
 	background-repeat: no-repeat;
