@@ -5,10 +5,10 @@
 	overflow-x: hidden;
 	overflow: hidden;
 	font-family: 'Lato 2', sans-serif;
-  font-family: 'Montserrat', sans-serif;
+  	font-family: 'Montserrat', sans-serif;
 }
 .selector-for-some-widget {
-  box-sizing: content-box;
+  	box-sizing: content-box;
 }
 h1, h2, h3,h4, h5, h6,p{
 	overflow: hidden;
@@ -38,7 +38,7 @@ section.banner{
 .content-two .row h1{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900;
-  font-size: 5rem;
+  	font-size: 5rem;
 }
 .content-two .row h4 img{
 	height: 25px;
@@ -62,16 +62,16 @@ section.banner{
 /* content-three */
 .content-three {
 	position: relative;
-	top: 80px;
+	top: 20px;
 }
 .content-three .row p{
 	font-size: 1rem;
 }
 .content-three .row a i img{
-    height: 30px;
-    padding: 5px;
-    position: relative;
-    left: 170px;
+    	height: 30px;
+    	padding: 5px;
+    	position: relative;
+    	left: 170px;
 }
 .row .content-one h3{
 	font-size: 1.6rem;
