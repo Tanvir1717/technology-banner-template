@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow-x: hidden;
+	overflow: hidden;
+	font-family: 'Lato 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+h1, h2, h3,h4, h5, h6,p{
+	overflow: hidden;
+}
+section.banner{
+	height: 100vh;
+	width: 100%;
+	background-image:url("../image/tech-boy.png"), url("../image/backgound-img.png"),  linear-gradient(rgba(5, 18, 70, .7), rgba(5, 18, 70, .8)), url("../image/background-img2.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.container{
+	height: 100%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+	border-top: 2px solid #051246;
+	border-bottom: 2px solid #051246;
+	color: #051246;
+	font-size: 1.2rem;
+	transition: .5s;
+}
+/* content-two */
+.content-two .row h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+  font-size: 5rem;
+}
+.content-two .row h4 img{
+	height: 25px;
+	width: 30px;
+	position: relative;
+	top: -2px;
+	left: 5px;
+}
+.content .row h4{
+	font-size: 1.8rem;
+	font-weight: 600;
+	font-family: 'Lato 2', sans-serif;
+	padding-top: 20px;
+}
+.content-two .row h2{
+	text-align: right;
+}
+.content-two .row p{
+	text-align: right;
+}
+/* content-three */
+.content-three {
+	position: relative;
+	top: 220px;
+}
+.content-three .row p{
+	font-size: 1rem;
+}
+.content-three .row a i img{
+    height: 30px;
+    padding: 5px;
+    position: relative;
+    left: 170px;
+}
+.row .content-one h3{
+	font-size: 1.6rem;
+}
